@@ -1,0 +1,10 @@
+PORT =5000
+MONGO_DB_URI=
+
+JWT_SECRET = 
+
+
+NODE_ENV =development
+
+
+copy and insert above information after creating .env file in the root directory
